@@ -1,0 +1,52 @@
+﻿@using Microsoft.EntityFrameworkCore
+@model List<WorkLog.Models.Ticket>
+
+@{
+    ViewData["Title"] = "Tüm Liste";
+}
+
+<h2 class="mb-4 custom-orange">📋 Girilen Kayıtlar</h2>
+
+<form asp-action="Index" method="get" class="mb-3">
+    <input type="text" name="searchString" value="@ViewData["CurrentFilter"]" class="form-control" placeholder="Başlık, açıklama, müşteri...">
+    <button type="submit" class="btn btn-primary mt-2">Ara</button>
+</form>
+
+<table class="table table-bordered">
+    <thead class="table-light">
+        <tr>
+            @* <th>#</th> *@
+            <th>Başlık</th>
+            <th>Açıklama</th>
+            <th>Müşteri</th>
+            <th>Kategori</th>
+            <th>Kullanıcı</th>
+            <th>Süre</th>
+            <th>Tarih</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                @* <td>@item.Id</td> *@
+                <td>@item.Baslik</td>
+                <td>@item.Aciklama</td>
+                <td>@item.Musteri</td>
+                <td>@item.Kategori</td>
+                <td>@item.Kullanici</td>
+                <td>@item.Sure</td>
+                <td>@item.Tarih.ToShortDateString()</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">
+                        <img src="~/img/duzenle.png" alt="Düzenle" style="width:30px; height:30px; object-fit:contain;" />
+                    </a>
+                    <a asp-action="Delete" asp-route-id="@item.Id">
+                        <img src="~/img/delete.png" alt="Sil" style="width:30px; height:30px; object-fit:contain;" />
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

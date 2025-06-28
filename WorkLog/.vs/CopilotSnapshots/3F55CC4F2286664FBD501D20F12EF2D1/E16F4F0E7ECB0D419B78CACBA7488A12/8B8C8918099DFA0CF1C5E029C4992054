@@ -1,0 +1,35 @@
+﻿@model WorkLog.Models.Ticket
+
+@{
+    ViewData["Title"] = "Yeni Ticket Oluştur";
+}
+
+<h2>🎫 Ticket Oluştur</h2>
+
+<form asp-action="Create" method="post" class="row g-3">
+    <div class="col-md-3">
+        <label asp-for="Baslik" class="form-label"></label>
+        <input asp-for="Baslik" class="form-control" />
+        <span asp-validation-for="Baslik" class="text-danger"></span>
+    </div>
+    <div class="col-md-3">
+        <label asp-for="Aciklama" class="form-label"></label>
+        <input asp-for="Aciklama" class="form-control" />
+        <span asp-validation-for="Aciklama" class="text-danger"></span>
+    </div>
+    <div class="col-md-3">
+        <label asp-for="Musteri" class="form-label"></label>
+        <select asp-for="Musteri" class="form-select" asp-items="@(new SelectList(ViewBag.Musteriler, "Ad", "Ad"))">
+            <option value="">Müşteri Seç</option>
+        </select>
+        <span asp-validation-for="Musteri" class="text-danger"></span>
+    </div>
+    <div class="col-md-3">
+        <label asp-for="Kategori" class="form-label"></label>
+        <select asp-for="Kategori" class="form-select" asp-items="@(new SelectList(ViewBag.Kategoriler, "Ad", "Ad"))">
+            <option value="">Kategori Seç</option>
+        </select>
+        <span asp-validation-for="Kategori" class="text-danger"></span>
+    </div>
+    <div class="col-md-3">
+        <label asp-for="Kullanici" class="form-label

@@ -1,0 +1,7 @@
+﻿@model WorkLog.Models.Musteri
+
+@{
+    ViewData["Title"] = "Yeni Müşteri Ekle";
+}
+
+<h2>Yeni Müş

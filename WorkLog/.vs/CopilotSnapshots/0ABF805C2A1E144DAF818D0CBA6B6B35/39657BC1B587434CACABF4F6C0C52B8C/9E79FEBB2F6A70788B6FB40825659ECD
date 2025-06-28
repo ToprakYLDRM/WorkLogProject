@@ -1,0 +1,21 @@
+﻿@model WorkLog.Models.Ticket
+
+@{
+    ViewData["Title"] = "Ticket Güncelle";
+    ViewBag.Musteriler = _context.Musteriler.ToList();
+    ViewBag.Kategoriler = _context.Kategoriler.ToList();
+    ViewBag.Kullanicilar = _context.Kullanicilar.ToList();
+}
+
+<h2 class="custom-orange">📝 Ticket Güncelle</h2>
+
+<form asp-action="Edit" method="post" class="row g-3">
+    <input type="hidden" asp-for="Id" />
+
+    <partial name="_FormPartial" model="Model" />
+
+    <div class="col-md-12">
+        <button type="submit" class="btn btn-primary">Güncelle</button>
+        <a asp-action="Index" class="btn btn-secondary">İptal</a>
+    </div>
+</form>

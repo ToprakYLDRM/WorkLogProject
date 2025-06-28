@@ -1,0 +1,10 @@
+﻿@model WorkLog.Models.Kullanici
+
+@{
+    ViewData["Title"] = "Yeni Kullanıcı Ekle";
+}
+
+<h2>Yeni Kullanıcı Ekle</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group

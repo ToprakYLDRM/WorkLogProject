@@ -1,0 +1,18 @@
+﻿@model WorkLog.Models.Ticket
+
+@{
+    ViewData["Title"] = "İş Güncelle";
+}
+
+<h2 class="custom-orange">📝 İş Güncelle</h2>
+
+<form asp-action="Edit" method="post" class="row g-3">
+    <input type="hidden" asp-for="Id" />
+
+    <partial name="_FormPartial" model="Model" />
+
+    <div class="col-md-12">
+        <button type="submit" class="btn btn-primary">Güncelle</button>
+        <a asp-action="Index" class="btn btn-secondary">İptal</a>
+    </div>
+</form>

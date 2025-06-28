@@ -1,0 +1,59 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model WorkLog.Models.Ticket
+
+<div class="col-md-3 custom-orange">
+    <label asp-for="Baslik" class="form-label"></label>
+    <input asp-for="Baslik" class="form-control" />
+    <span asp-validation-for="Baslik" class="text-danger"></span>
+</div>
+
+<div class="col-md-3 custom-orange">
+    <label asp-for="Aciklama" class="form-label"></label>
+    <input asp-for="Aciklama" class="form-control" />
+    <span asp-validation-for="Aciklama" class="text-danger"></span>
+</div>
+
+<div class="col-md-3 custom-orange">
+    <label asp-for="Musteri" class="form-label"></label>
+    <select asp-for="Musteri" class="form-select">
+        <option value="">Müşteri Seç</option>
+        <option>Y Firması</option>
+        <option>X Şirketi</option>
+        <option>Xas A.Ş.</option>
+    </select>
+</div>
+
+<div class="col-md-3 custom-orange">
+    <label asp-for="Kategori" class="form-label"></label>
+    <select asp-for="Kategori" class="form-select">
+        <option value="">Kategori Seç</option>
+        <option>IT Desteği</option>
+        <option>Güvenlik Desteği</option>
+        <option>Web Sitesi Yapımı</option>
+        <option>Web Sitesi Güncelleme</option>
+    </select>
+</div>
+
+<div class="col-md-3 custom-orange">
+    <label asp-for="Kullanici" class="form-label"></label>
+    <select asp-for="Kullanici" class="form-select">
+        <option value="">Kullanıcı Seç</option>
+        <option>Toprak Yıldırım</option>
+        <option>Yaren Yıldırım</option>
+        <option>Serap Yıldırım</option>
+    </select>
+</div>
+
+<div class="col-md-3 custom-orange">
+    <label asp-for="Sure" class="form-label"></label>
+    <input asp-for="Sure" class="form-control" />
+    <span asp-validation-for="Sure" class="text-danger"></span>
+</div>
+
+<div class="col-md-3 custom-orange">
+    <label asp-for="Tarih" class="form-label"></label>
+    <input asp-for="Tarih" type="date" class="form-control" />
+    <span asp-validation-for="Tarih" class="text-danger"></span>
+</div>

@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model WorkLog.Models.Ticket
+
+<div class="col-md-3 custom-orange">
+    <label asp-for="Baslik" class="form-label"></label>
+    <input asp-for="Baslik" class="form-control" />
+    <span asp-validation-for="Baslik" class="text-danger"></span>
+</div>
+
+<div class="col-md-3 custom-orange">
+    <label asp-for="Aciklama" class="form-label"></label>
+    <input asp-for="Aciklama" class="form-control" />
+    <span asp-validation-for="Aciklama" class="text-danger"></span>
+</div>
+
+<div class="col-md-3 custom-orange">
+    <label asp-for="Musteri" class="form-label"></label>
+    <select asp-for="Musteri" class="form-select" asp-items="@(new SelectList(ViewBag.Musteriler, "Ad", "Ad", Model.Musteri))">
+        <option value="">Müşteri Seç</option>
+    </select>
+    <span asp-validation-for="Musteri" class="text-danger"></span>
+</div>
+
+<div class="col-md-3 custom-orange">
+    <label asp-for="Kategori" class="form-label"></label>
+    <select asp-for="Kategori" class="form-select" asp-items="@(new SelectList(ViewBag.Kategoriler, "Ad", "Ad", Model.Kategori))">
+        <option value="">Kategori Seç</option>
+    </select>
+    <span asp-validation-for="Kategori" class="text-danger"></span>
+</div>
+
+<div class="col-md-3 custom-orange">
+    <label asp-for="Kullanici" class="form-label

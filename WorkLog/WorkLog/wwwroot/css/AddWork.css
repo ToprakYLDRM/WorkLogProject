@@ -1,0 +1,34 @@
+ body {
+     background-color: black;
+     padding-top: 50px;
+     /* padding-top: 150px; */
+     /* Navbar yüksekliğine göre ayarlayın */
+ }
+
+ .card-body {
+     padding: 1rem;
+ }
+
+.custom-orange {
+    color: orange !important;
+}
+
+ /* header css */
+.hero-header {
+    background: url('/img/f2.png') top center / cover no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+ .hero-header .overlay {
+     background-color: rgba(0, 0, 0, 0.5);
+     /* yarı saydam karartma */
+     z-index: 1;
+ }
+
+ .hero-header .container {
+     z-index: 2;
+ }

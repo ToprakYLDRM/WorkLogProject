@@ -1,0 +1,7 @@
+﻿@model WorkLog.Models.Kategori
+
+@{
+    ViewData["Title"] = "Yeni Kategori Ekle";
+}
+
+<h2>Yeni

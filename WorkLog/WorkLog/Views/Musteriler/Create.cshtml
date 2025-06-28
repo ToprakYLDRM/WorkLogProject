@@ -1,0 +1,22 @@
+﻿@model WorkLog.Models.Musteri
+
+@{
+    ViewData["Title"] = "Yeni Müşteri Ekle";
+}
+
+<h2 class="custom-orange">Yeni Müşteri Ekle</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="Ad" class="custom-orange"></label>
+        <input asp-for="Ad" class="form-control" />
+        <span asp-validation-for="Ad" class="text-danger"></span>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-success">Kaydet</button>
+    <a asp-action="Index" class="btn btn-secondary">Listeye Dön</a>
+</form>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

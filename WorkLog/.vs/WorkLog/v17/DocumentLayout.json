@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\topra\\source\\repos\\WorkLog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4941F886-1A2C-4996-925C-7DA738F67ADF}|WorkLog\\WorkLog.csproj|c:\\users\\topra\\source\\repos\\worklog\\worklog\\views\\tickets\\_formpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4941F886-1A2C-4996-925C-7DA738F67ADF}|WorkLog\\WorkLog.csproj|solutionrelative:worklog\\views\\tickets\\_formpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4941F886-1A2C-4996-925C-7DA738F67ADF}|WorkLog\\WorkLog.csproj|c:\\users\\topra\\source\\repos\\worklog\\worklog\\views\\tickets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4941F886-1A2C-4996-925C-7DA738F67ADF}|WorkLog\\WorkLog.csproj|solutionrelative:worklog\\views\\tickets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4941F886-1A2C-4996-925C-7DA738F67ADF}|WorkLog\\WorkLog.csproj|c:\\users\\topra\\source\\repos\\worklog\\worklog\\views\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4941F886-1A2C-4996-925C-7DA738F67ADF}|WorkLog\\WorkLog.csproj|solutionrelative:worklog\\views\\tickets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4941F886-1A2C-4996-925C-7DA738F67ADF}|WorkLog\\WorkLog.csproj|c:\\users\\topra\\source\\repos\\worklog\\worklog\\views\\tickets\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4941F886-1A2C-4996-925C-7DA738F67ADF}|WorkLog\\WorkLog.csproj|solutionrelative:worklog\\views\\tickets\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4941F886-1A2C-4996-925C-7DA738F67ADF}|WorkLog\\WorkLog.csproj|c:\\users\\topra\\source\\repos\\worklog\\worklog\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4941F886-1A2C-4996-925C-7DA738F67ADF}|WorkLog\\WorkLog.csproj|solutionrelative:worklog\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4941F886-1A2C-4996-925C-7DA738F67ADF}|WorkLog\\WorkLog.csproj|c:\\users\\topra\\source\\repos\\worklog\\worklog\\views\\tickets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4941F886-1A2C-4996-925C-7DA738F67ADF}|WorkLog\\WorkLog.csproj|solutionrelative:worklog\\views\\tickets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4941F886-1A2C-4996-925C-7DA738F67ADF}|WorkLog\\WorkLog.csproj|c:\\users\\topra\\source\\repos\\worklog\\worklog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4941F886-1A2C-4996-925C-7DA738F67ADF}|WorkLog\\WorkLog.csproj|solutionrelative:worklog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4941F886-1A2C-4996-925C-7DA738F67ADF}|WorkLog\\WorkLog.csproj|c:\\users\\topra\\source\\repos\\worklog\\worklog\\views\\kategoriler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4941F886-1A2C-4996-925C-7DA738F67ADF}|WorkLog\\WorkLog.csproj|solutionrelative:worklog\\views\\kategoriler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4941F886-1A2C-4996-925C-7DA738F67ADF}|WorkLog\\WorkLog.csproj|c:\\users\\topra\\source\\repos\\worklog\\worklog\\views\\kullanicilar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4941F886-1A2C-4996-925C-7DA738F67ADF}|WorkLog\\WorkLog.csproj|solutionrelative:worklog\\views\\kullanicilar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4941F886-1A2C-4996-925C-7DA738F67ADF}|WorkLog\\WorkLog.csproj|c:\\users\\topra\\source\\repos\\worklog\\worklog\\views\\musteriler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4941F886-1A2C-4996-925C-7DA738F67ADF}|WorkLog\\WorkLog.csproj|solutionrelative:worklog\\views\\musteriler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4941F886-1A2C-4996-925C-7DA738F67ADF}|WorkLog\\WorkLog.csproj|c:\\users\\topra\\source\\repos\\worklog\\worklog\\views\\musteriler\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4941F886-1A2C-4996-925C-7DA738F67ADF}|WorkLog\\WorkLog.csproj|solutionrelative:worklog\\views\\musteriler\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4941F886-1A2C-4996-925C-7DA738F67ADF}|WorkLog\\WorkLog.csproj|c:\\users\\topra\\source\\repos\\worklog\\worklog\\views\\kategoriler\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4941F886-1A2C-4996-925C-7DA738F67ADF}|WorkLog\\WorkLog.csproj|solutionrelative:worklog\\views\\kategoriler\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4941F886-1A2C-4996-925C-7DA738F67ADF}|WorkLog\\WorkLog.csproj|c:\\users\\topra\\source\\repos\\worklog\\worklog\\views\\kullanicilar\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4941F886-1A2C-4996-925C-7DA738F67ADF}|WorkLog\\WorkLog.csproj|solutionrelative:worklog\\views\\kullanicilar\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_FormPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\WorkLog\\WorkLog\\Views\\Tickets\\_FormPartial.cshtml",
+              "RelativeDocumentMoniker": "WorkLog\\Views\\Tickets\\_FormPartial.cshtml",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\WorkLog\\WorkLog\\Views\\Tickets\\_FormPartial.cshtml",
+              "RelativeToolTip": "WorkLog\\Views\\Tickets\\_FormPartial.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T16:39:59.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\WorkLog\\WorkLog\\Views\\Tickets\\Create.cshtml",
+              "RelativeDocumentMoniker": "WorkLog\\Views\\Tickets\\Create.cshtml",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\WorkLog\\WorkLog\\Views\\Tickets\\Create.cshtml",
+              "RelativeToolTip": "WorkLog\\Views\\Tickets\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T16:39:36.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\WorkLog\\WorkLog\\Views\\Tickets\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WorkLog\\Views\\Tickets\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\WorkLog\\WorkLog\\Views\\Tickets\\Delete.cshtml",
+              "RelativeToolTip": "WorkLog\\Views\\Tickets\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T16:39:15.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\WorkLog\\WorkLog\\Views\\Tickets\\Index.cshtml",
+              "RelativeDocumentMoniker": "WorkLog\\Views\\Tickets\\Index.cshtml",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\WorkLog\\WorkLog\\Views\\Tickets\\Index.cshtml",
+              "RelativeToolTip": "WorkLog\\Views\\Tickets\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T16:36:53.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\WorkLog\\WorkLog\\Views\\Tickets\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WorkLog\\Views\\Tickets\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\WorkLog\\WorkLog\\Views\\Tickets\\Edit.cshtml",
+              "RelativeToolTip": "WorkLog\\Views\\Tickets\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T16:02:12.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\WorkLog\\WorkLog\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "WorkLog\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\WorkLog\\WorkLog\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "WorkLog\\Controllers\\TicketsController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAYwEkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T16:07:49.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\WorkLog\\WorkLog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WorkLog\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\WorkLog\\WorkLog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WorkLog\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvx4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T15:40:26.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\WorkLog\\WorkLog\\Views\\Kategoriler\\Create.cshtml",
+              "RelativeDocumentMoniker": "WorkLog\\Views\\Kategoriler\\Create.cshtml",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\WorkLog\\WorkLog\\Views\\Kategoriler\\Create.cshtml",
+              "RelativeToolTip": "WorkLog\\Views\\Kategoriler\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T15:39:14.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\WorkLog\\WorkLog\\Views\\Kullanicilar\\Create.cshtml",
+              "RelativeDocumentMoniker": "WorkLog\\Views\\Kullanicilar\\Create.cshtml",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\WorkLog\\WorkLog\\Views\\Kullanicilar\\Create.cshtml",
+              "RelativeToolTip": "WorkLog\\Views\\Kullanicilar\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T15:38:58.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\WorkLog\\WorkLog\\Views\\Kategoriler\\Index.cshtml",
+              "RelativeDocumentMoniker": "WorkLog\\Views\\Kategoriler\\Index.cshtml",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\WorkLog\\WorkLog\\Views\\Kategoriler\\Index.cshtml",
+              "RelativeToolTip": "WorkLog\\Views\\Kategoriler\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T15:36:55.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\WorkLog\\WorkLog\\Views\\Kullanicilar\\Index.cshtml",
+              "RelativeDocumentMoniker": "WorkLog\\Views\\Kullanicilar\\Index.cshtml",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\WorkLog\\WorkLog\\Views\\Kullanicilar\\Index.cshtml",
+              "RelativeToolTip": "WorkLog\\Views\\Kullanicilar\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T15:36:05.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\WorkLog\\WorkLog\\Views\\Musteriler\\Index.cshtml",
+              "RelativeDocumentMoniker": "WorkLog\\Views\\Musteriler\\Index.cshtml",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\WorkLog\\WorkLog\\Views\\Musteriler\\Index.cshtml",
+              "RelativeToolTip": "WorkLog\\Views\\Musteriler\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T15:15:18.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\topra\\source\\repos\\WorkLog\\WorkLog\\Views\\Musteriler\\Create.cshtml",
+              "RelativeDocumentMoniker": "WorkLog\\Views\\Musteriler\\Create.cshtml",
+              "ToolTip": "C:\\Users\\topra\\source\\repos\\WorkLog\\WorkLog\\Views\\Musteriler\\Create.cshtml",
+              "RelativeToolTip": "WorkLog\\Views\\Musteriler\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T15:15:12.057Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
